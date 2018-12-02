@@ -1,7 +1,7 @@
 # cpx_robot
 Circuit Playground Express controlling continuous servos to drive a robot
 
-![Screenshot](https://github.com/cpx_robot/Screenshot.png "cpx_robot")
+![Screenshot](https://raw.githubusercontent.com/jeffreycoen/cpx_robot/master/Screenshot.png "cpx_robot")
 
 ## Components:
   * Circuit Playground Express
